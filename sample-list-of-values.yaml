@@ -1,0 +1,3 @@
+service: 
+  - app: "web-service"
+  - app : "ui"

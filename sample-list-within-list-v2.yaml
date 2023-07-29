@@ -1,0 +1,11 @@
+service:
+  #comment
+  - app: "web-service"
+    port: '8002'
+    version: 1.7
+    other: "hello \n world"
+  - app : "ui"
+    port: 8080
+    version: 1.1
+    enabled: TRUE
+    versions: [1.1, "1.2"]
