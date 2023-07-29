@@ -1,0 +1,7 @@
+service:
+  app: web-service
+  port: '8002'
+  version: 1.7
+  newline: |
+    hello 
+    world
