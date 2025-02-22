@@ -1,4 +1,5 @@
 #comment
+# this is a sample comment for key-value yaml
 app: "web-service"
 port: '8002'
 version: 1.7
